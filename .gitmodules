@@ -1,0 +1,3 @@
+[submodule "web/sites/khaiminh"]
+	path = web/sites/khaiminh
+	url = git@github.com:longphu0001/khaiminh.git
